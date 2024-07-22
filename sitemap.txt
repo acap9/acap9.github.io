@@ -1,0 +1,10 @@
+https://acap9.github.io/
+https://acap9.github.io/weather-services/
+https://acap9.github.io/cropping-calendar-v2/
+https://acap9.github.io/agroclimatic-services/
+https://acap9.github.io/bulletins/
+https://acap9.github.io/bulletins/weather/
+https://acap9.github.io/bulletins/seasonal-outlook/
+https://acap9.github.io/bulletins/special-weather-forecast/
+https://acap9.github.io/admin/login/
+https://acap9.github.io/superadmin/login/
